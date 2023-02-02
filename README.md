@@ -15,3 +15,10 @@ I'm a graduate of the computer systems career, I have skills in the programming 
 *	Team work.
 *	GitHub.
 *	Intermediate English.
+
+
+<p align="center">
+	[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)	
+  	  	
+  </a>
+</p>
